@@ -37,6 +37,6 @@ Serial.print(Vr);
 Serial.print(";");
 Serial.println(Vd);
 
-//Delay de 1000 milisegundos (1 seg ) para ver el efecto de atenuación:
+//Delay de 1000 milisegundos (1 seg ) para evitar el efecto de atenuación:
 delay(1000);
 }
